@@ -1,9 +1,9 @@
 # Next.js Docker Templates
 Un ensemble de templates Docker optimisés pour les applications Next.js, avec une approche multi-stage build pour des déploiements plus efficaces et sécurisés.
 
-## À propos
+## À propos <a href="https://nextjs.org/"> <img src="https://raw.githubusercontent.com/dnh4/next_docker_template/refs/heads/main/images/next.png" height="30" alt="Logo Next"></a> <a href="https://www.docker.com/"> <img src="https://raw.githubusercontent.com/dnh4/next_docker_template/refs/heads/main/images/docker.png" height="30" alt="Logo Docker"></a>
 
-Ce repository contient des templates <a href="https://nextjs.org/">Docker <img src="https://raw.githubusercontent.com/dnh4/next_docker_template/refs/heads/main/images/next.png" height="30" alt="Logo Next"></a> soigneusement conçus pour les applications <a href="https://www.docker.com/">Next.js <img src="https://raw.githubusercontent.com/dnh4/next_docker_template/refs/heads/main/images/docker.png" height="30" alt="Logo Docker"></a>. L'objectif est de fournir des configurations Docker prêtes à l'emploi qui suivent les meilleures pratiques, optimisent la taille des images et améliorent la sécurité.
+Ce repository contient des templates Docker soigneusement conçus pour les applications Next.js. L'objectif est de fournir des configurations Docker prêtes à l'emploi qui suivent les meilleures pratiques, optimisent la taille des images et améliorent la sécurité.
 
 ## Fonctionnalités
 
